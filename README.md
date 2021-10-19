@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ngovindrajan
 - 👀 I’m interested in bulding Scaled Data pipelines.
-- 🌱 I’m currently learning BlockChain,Protocol & its Architectures.
+- 🌱 I’m currently learning BlockChain Protocols & its Architectures.
 - 💞️ I’m looking to collaborate on any work related to Data Integration.
 - 📫 How to reach me govind@tokenmetrics.com
